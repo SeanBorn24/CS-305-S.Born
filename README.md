@@ -1,7 +1,7 @@
 # CS-305-S.Born
 Repository for CS305 Course
 
-1. Artemis Financial is a financial services company that manages sensitive customer and transactional data. They wanted to strengthen the security of their software application by addressing existing vulnerabilities and making sure their systems complied with industry security standards. Specifically, they asked for a vulnerability assessment and code refactoring to safeguard against threats like data breaches, integrity issues, and insecure data transmission.\
+1. Artemis Financial is a financial services company that manages sensitive customer and transactional data. They wanted to strengthen the security of their software application by addressing existing vulnerabilities and making sure their systems complied with industry security standards. Specifically, they asked for a vulnerability assessment and code refactoring to safeguard against threats like data breaches, integrity issues, and insecure data transmission.
 
 2. I identified weaknesses in the code and applied fixes, such as checksum verification for data integrity and the use of certificates for secure communication. I documented the issues and solutions, which showed an understanding of how vulnerabilities affect real-world applications. This was important because secure coding makes sure of confidentiality, integrity, and availability. Coding securely is important because it prevents exploitation of software flaws, protects sensitive customer information, and maintains trust in the company. Software security directly supports a company’s reputation, compliance with regulations, and long-term stability.
 
